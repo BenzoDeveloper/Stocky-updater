@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "1.2.0",
+    "version":  "1.2.1",
     "url":  "https://raw.githubusercontent.com/BenzoDeveloper/Stocky-updater/main/Stocky%20v1.exe",
-    "notes":  "Nuevo: sistema completo de proveedores (nombre, CUIT, telefono, email, direccion, notas) + asociacion de productos a proveedores + columna Proveedor en grilla"
+    "notes":  "Fix: corrige error Get-Suppliers no reconocida en inicio (recompilacion)"
 }
