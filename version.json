@@ -1,6 +1,5 @@
 ﻿{
-    "version":  "1.2.2",
+    "version":  "1.2.3",
     "url":  "https://raw.githubusercontent.com/BenzoDeveloper/Stocky-updater/main/Stocky%20v1.exe",
-    "notes":  "Nuevo: desde cada proveedor ya puedes tildar que producto/s provee (grilla con check en pestana Proveedores) + columna Proveedor en inventario"
+    "notes":  "Fix: corrige conteo Productos por proveedor y tilde no se guardaba (SupplierProductRow + scoping) + actualiza grillas al guardar"
 }
-
