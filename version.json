@@ -1,5 +1,5 @@
-{
-  "version": "1.1.0",
-  "url": "https://raw.githubusercontent.com/BenzoDeveloper/Stocky-updater/main/Stocky%20v1.exe",
-  "notes": "Dashboard profesional, graficos, precio de venta, ganancia estimada y historial de movimientos"
+﻿{
+    "version":  "1.1.1",
+    "url":  "https://raw.githubusercontent.com/BenzoDeveloper/Stocky-updater/main/Stocky%20v1.exe",
+    "notes":  "Fix: correccion error al eliminar producto (cast decimal)"
 }
