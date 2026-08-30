@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "1.2.3",
+    "version":  "1.2.4",
     "url":  "https://raw.githubusercontent.com/BenzoDeveloper/Stocky-updater/main/Stocky%20v1.exe",
-    "notes":  "Fix: corrige conteo Productos por proveedor y tilde no se guardaba (SupplierProductRow + scoping) + actualiza grillas al guardar"
+    "notes":  "Fix: productos de proveedor ahora se actualizan al vender/descontar/eliminar (stock y borrado sincronizado)"
 }
