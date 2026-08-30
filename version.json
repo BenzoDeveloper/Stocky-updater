@@ -1,5 +1,6 @@
 ﻿{
-    "version":  "1.2.1",
+    "version":  "1.2.2",
     "url":  "https://raw.githubusercontent.com/BenzoDeveloper/Stocky-updater/main/Stocky%20v1.exe",
-    "notes":  "Fix: corrige error Get-Suppliers no reconocida en inicio (recompilacion)"
+    "notes":  "Nuevo: desde cada proveedor ya puedes tildar que producto/s provee (grilla con check en pestana Proveedores) + columna Proveedor en inventario"
 }
+
