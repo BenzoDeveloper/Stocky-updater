@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "1.3.1",
+    "version":  "1.3.2",
     "url":  "https://raw.githubusercontent.com/BenzoDeveloper/Stocky-updater/main/Stocky%20v1.exe",
-    "notes":  "Correccion: se agregaron controles faltantes de Ordenes de Compra al hash de controles y clase OrderProductRow al bloque C#. La app ahora inicia correctamente."
+    "notes":  "Filtro de productos por proveedor al crear orden de compra: al seleccionar un proveedor se muestran solo sus productos que necesitan reposicion"
 }
