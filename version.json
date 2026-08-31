@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "1.3.3",
+    "version":  "1.4.0",
     "url":  "https://raw.githubusercontent.com/BenzoDeveloper/Stocky-updater/main/Stocky%20v1.exe",
-    "notes":  "Editar ordenes de compra: selecciona una orden Pendiente, haz clic en Editar, modifica cantidades y guarda. Boton deshabilitado para ordenes Enviadas/Recibidas/Canceladas"
+    "notes":  "Codigos de barras: campo por producto, busqueda por codigo y escaneo con lector USB (HID teclado), columna en inventario, validacion de duplicados"
 }
