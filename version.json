@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "1.4.0",
+    "version":  "1.4.1",
     "url":  "https://raw.githubusercontent.com/BenzoDeveloper/Stocky-updater/main/Stocky%20v1.exe",
-    "notes":  "Codigos de barras automatico (HID pistola, sin foco), columna y validacion duplicados + diseno HD profesional + bordes visibles + formulario compacto legible"
+    "notes":  "Fix: columna Cant. en ordenes de compra ahora editable (TwoWay) + commit al guardar"
 }
