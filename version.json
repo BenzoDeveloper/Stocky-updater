@@ -1,5 +1,5 @@
 ﻿{
     "version":  "1.4.0",
     "url":  "https://raw.githubusercontent.com/BenzoDeveloper/Stocky-updater/main/Stocky%20v1.exe",
-    "notes":  "Codigos de barras: campo por producto, busqueda por codigo y escaneo con lector USB (HID teclado), columna en inventario, validacion de duplicados"
+    "notes":  "Codigos de barras automatico (HID pistola, sin foco), columna y validacion duplicados + diseno HD profesional + bordes visibles + formulario compacto legible"
 }
