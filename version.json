@@ -1,5 +1,5 @@
 ﻿{
-    "version": "1.5.0",
+    "version": "1.5.1",
     "url": "https://raw.githubusercontent.com/BenzoDeveloper/Stocky-updater/main/Stocky%20v1.exe",
-    "notes": "v1.5.0: Icono S magenta embebido, sin ventana PowerShell, espaciado de headers, compilacion nativa C#"
+    "notes": "v1.5.1: Fixes de Cursor - inventario siempre array, importar CSV guarda, editar sin duplicar, filtro categorias, config pagos, archivos danados protegidos"
 }
